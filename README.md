@@ -27,14 +27,6 @@ This project is a Java Swing-based employee management application. It allows yo
 - **Edit Employee**: Search for an employee, modify their information, and click "Edit".
 - **Delete Employee**: Enter the code of the employee to delete and click "Delete".
 
-### Contributions:
-If you would like to contribute to this project, please follow these steps:
-1. Fork this repository.
-2. Create a new branch for your feature (`git checkout -b feature/feature-name`).
-3. Make your changes and commit them (`git commit -am 'Add feature X'`).
-4. Push your changes (`git push origin feature/feature-name`).
-5. Open a pull request.
-
 ### Authors:
 - **Reda Yahya**: Main developer and creator of the project.
 
